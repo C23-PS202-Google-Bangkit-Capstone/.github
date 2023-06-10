@@ -40,7 +40,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contributor">Contact</a></li>
+    <li><a href="#contributor">Contributor</a></li>
   </ol>
 </details>
 
@@ -152,16 +152,12 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the Apache 2 License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contributor
@@ -173,9 +169,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 | Frico Simon Kefas | Cloud Computing | C032DSX0942 |
 | Ignatius Joshua Abshalom | Cloud Computing | C032DSX4847 |
 | Zahran Difa Vidian | Mobile Development | A220DSX2060 |
-| Amar Al Fatah | Mobile Development | M131DSX0255 A131DSX1152 |
+| Amar Al Fatah | Mobile Development | A131DSX1152 |
 
 Organization Link: [https://github.com/C23-PS202-Google-Bangkit-Capstone](https://github.com/C23-PS202-Google-Bangkit-Capstone)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
