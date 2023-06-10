@@ -40,8 +40,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contributor">Contact</a></li>
   </ol>
 </details>
 
@@ -165,11 +164,18 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Contributor
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+| Name | Learning Path | ID |
+| -------- | -------- | -------- |
+| Jeremy Tanudjaja | Machine Learning | M032DSX1279 |
+| Hanif Abdurrasyid | Machine Learning | M131DSX0255 |
+| Frico Simon Kefas | Cloud Computing | C032DSX0942 |
+| Ignatius Joshua Abshalom | Cloud Computing | C032DSX4847 |
+| Zahran Difa Vidian | Mobile Development | A220DSX2060 |
+| Amar Al Fatah | Mobile Development | M131DSX0255 A131DSX1152 |
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Organization Link: [https://github.com/C23-PS202-Google-Bangkit-Capstone](https://github.com/C23-PS202-Google-Bangkit-Capstone)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
