@@ -153,6 +153,20 @@ Distributed under the Apache 2 License. See `LICENSE.txt` for more information.
 | Zahran Difa Vidian | Mobile Development | A220DSX2060 |
 | Amar Al Fatah | Mobile Development | A131DSX1152 |
 
+<table>
+  <tbody>
+    <tr>
+        <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/FricoSimon">
+        <img src="https://avatars.githubusercontent.com/FricoSimon?v=3?s=100" width="100px;" alt="Frico Simon Kefas" />
+        <br />
+        <sub><b>Frico Simon Kefas</b></sub>
+        </a>
+</td>
+    </tr>
+  </tbody>
+</table>
+
 Organization Link: [https://github.com/C23-PS202-Google-Bangkit-Capstone](https://github.com/C23-PS202-Google-Bangkit-Capstone)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
