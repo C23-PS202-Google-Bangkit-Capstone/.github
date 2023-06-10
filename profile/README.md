@@ -40,7 +40,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contributor">Contributor</a></li>
+    <li><a href="#team">Team</a></li>
   </ol>
 </details>
 
@@ -142,7 +142,7 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the Apache 2 License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
-## Contributor
+## Team
 
 | Name | Learning Path | ID |
 | -------- | -------- | -------- |
@@ -150,19 +150,56 @@ Distributed under the Apache 2 License. See `LICENSE.txt` for more information.
 | Hanif Abdurrasyid | Machine Learning | M131DSX0255 |
 | Frico Simon Kefas | Cloud Computing | C032DSX0942 |
 | Ignatius Joshua Abshalom | Cloud Computing | C032DSX4847 |
-| Zahran Difa Vidian | Mobile Development | A220DSX2060 |
 | Amar Al Fatah | Mobile Development | A131DSX1152 |
+| Zahran Difa Vidian | Mobile Development | A220DSX2060 |
+
+#### Profile
 
 <table>
   <tbody>
     <tr>
         <td align="center" valign="top" width="14.28%">
-        <a href="https://github.com/FricoSimon">
-        <img src="https://avatars.githubusercontent.com/FricoSimon?v=3?s=100" width="100px;" alt="Frico Simon Kefas" />
-        <br />
-        <sub><b>Frico Simon Kefas</b></sub>
-        </a>
-</td>
+             <a href="https://github.com/FricoSimon">
+             <img src="https://avatars.githubusercontent.com/FricoSimon?v=3?s=100" width="100px;" alt="Frico Simon" />
+             <br />
+             <sub><b>Frico Simon</b></sub>
+             </a>
+        </td>
+        <td align="center" valign="top" width="14.28%">
+             <a href="https://github.com/Zumoa17">
+             <img src="https://avatars.githubusercontent.com/Zumoa17?v=3?s=100" width="100px;" alt="Ignatius Joshua" />
+             <br />
+             <sub><b>Ignatius Joshua</b></sub>
+             </a>
+        </td>
+        <td align="center" valign="top" width="14.28%">
+             <a href="https://github.com/JeremyTanudjaja">
+             <img src="https://avatars.githubusercontent.com/JeremyTanudjaja?v=3?s=100" width="100px;" alt="Jeremy Tanudjaja" />
+             <br />
+             <sub><b>Jeremy Tanudjaja</b></sub>
+             </a>
+        </td>
+        <td align="center" valign="top" width="14.28%">
+             <a href="https://github.com/hnfabdd">
+             <img src="https://avatars.githubusercontent.com/hnfabdd?v=3?s=100" width="100px;" alt="Hanif Abdurrasyid" />
+             <br />
+             <sub><b>Hanif Abdurrasyid</b></sub>
+             </a>
+        </td>          
+        <td align="center" valign="top" width="14.28%">
+             <a href="https://github.com/amaralfatah">
+             <img src="https://avatars.githubusercontent.com/amaralfatah?v=3?s=100" width="100px;" alt="Amar Al Fatah" />
+             <br />
+             <sub><b>Amar Al Fatah</b></sub>
+             </a>
+        </td>
+        <td align="center" valign="top" width="14.28%">
+             <a href="https://github.com/ZDV16">
+             <img src="https://avatars.githubusercontent.com/ZDV16?v=3?s=100" width="100px;" alt="Zahran Difa" />
+             <br />
+             <sub><b>Zahran Difa</b></sub>
+             </a>
+        </td>
     </tr>
   </tbody>
 </table>
