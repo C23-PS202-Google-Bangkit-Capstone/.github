@@ -85,7 +85,27 @@ To check the installation, kindly refer to each part's repository above.
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+#### Quick overview:
+<a href="https://storage.googleapis.com/freshcheck-c23-ps202f/asset/login.jpg">Login Page</a>
+<br />
+<a href="https://storage.googleapis.com/freshcheck-c23-ps202f/asset/register.jpg">Register Page</a>
+<br />
+<a href="https://storage.googleapis.com/freshcheck-c23-ps202f/asset/menu.jpg">Home Page / Menu</a>
+<br />
+<a href="https://storage.googleapis.com/freshcheck-c23-ps202f/asset/scan.jpg">Scan Page</a>
+<br />
+<a href="https://storage.googleapis.com/freshcheck-c23-ps202f/asset/profile.jpg">Profile Page</a>
+<br />
+<a href="https://storage.googleapis.com/freshcheck-c23-ps202f/asset/fresh%20orange.jpg">Fresh Orange Scan</a>
+<br />
+<a href="https://storage.googleapis.com/freshcheck-c23-ps202f/asset/fresh%20orange%20result.jpg">Fresh Orange Result</a>
+<br />
+<a href="https://storage.googleapis.com/freshcheck-c23-ps202f/asset/rotten%20orange.jpg">Rotten Orange Scan</a>
+<br />
+<a href="https://storage.googleapis.com/freshcheck-c23-ps202f/asset/rotten%20orange%20result.jpg">Rotten Orange Result</a>
+<br />
+
+#### More Details:
 
 <a href="https://www.youtube.com/watch?v=MwS9SGpTtS0&ab_channel=AmarAlFatah">Short Demo Video</a>
 <br />
