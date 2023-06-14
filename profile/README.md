@@ -81,28 +81,13 @@ To check the prerequisites, kindly refer to each part's repository above.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+To check the installation, kindly refer to each part's repository above.
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the Mobile Development's repository
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -114,8 +99,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
