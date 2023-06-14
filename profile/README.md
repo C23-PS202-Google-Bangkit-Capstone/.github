@@ -87,18 +87,17 @@ To check the installation, kindly refer to each part's repository above.
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the Mobile Development's repository
+For more examples, please refer to the Mobile Development's repository
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [ ] Creation of Background Remover AI, Restructuring of classes, and UI Development
+- [ ] Splitting of AI model to raise accuracy based on fruit and veggies type, restructuring of app flow to accommodate it
+- [ ] Continue progress of restructuring, adding more information and classes about fruits and veggies 
+- [ ] Adding More classes of veggies and fruits, information about it, and more menus recommendation
+- [ ] Preparation for Deployment By Adding Ad Functionality
+- [ ] Deployment of App on Google Playstore
 
 <!-- CONTRIBUTING -->
 ## Contributing
