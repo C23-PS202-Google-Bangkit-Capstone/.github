@@ -73,16 +73,11 @@ FreshCheck simplifies grocery shopping and ensures users can confidently select 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+We divide our project into three parts; Machine Learning, Cloud Computing, and Mobile Development. Each part is needed to make the application works. Make sure to check every part is working correctly in order to use our application.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+To check the prerequisites, kindly refer to each part's repository above.
 
 ### Installation
 
