@@ -87,6 +87,12 @@ To check the installation, kindly refer to each part's repository above.
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
+<a href="https://www.youtube.com/watch?v=MwS9SGpTtS0&ab_channel=AmarAlFatah">Short Demo Video</a>
+<br />
+<a href="https://www.youtube.com/watch?v=zByrBdQgaSA&ab_channel=JeremyTanudjaja">Project Presentation</a>
+<br />
+<a href="https://drive.google.com/file/d/1kJ_q_QPTNKBFr_Cd6Xyz525-7nmjNZtS/view?usp=sharing">App Download (Alpha)</a>
+
 For more examples, please refer to the Mobile Development's repository
 
 <!-- ROADMAP -->
